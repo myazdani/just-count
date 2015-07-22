@@ -11,9 +11,12 @@ For each email message, we measure two quantities:
 - the number of times the word "just" is used in each email message
 - the number of character used in each email message
 
-We then compute the median number of times each sender uses the word "just" in all of her/his email messages and also the median number of characters each sender uses in all of her/his email messages. Here we show the visualization of what the relationship between these statistics: 
+We then compute the median number of times each sender uses the word "just" in all of her/his email messages and also the median number of characters each sender uses in all of her/his email messages. Here we show the visualization of what the relationship between these statistics and the number of emails sent: 
 
-![Image of Figure](https://plot.ly/~crude2refined/1222.png)
+<div>
+    <a href="https://plot.ly/~crude2refined/1245/" target="_blank" title="&quot;just&quot; rate each sender uses in her/his emails from the Enron email dataset" style="display: block; text-align: center;"><img src="https://plot.ly/~crude2refined/1245.png" alt="&quot;just&quot; rate each sender uses in her/his emails from the Enron email dataset" style="max-width: 100%;width: 607px;"  width="607" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="crude2refined:1245"  src="https://plot.ly/embed.js" async></script>
+</div>
 
 Click the figure above to interact with the data and results directly. 
 
